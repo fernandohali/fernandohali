@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 At the moment I am working as a freelancer.<br>I'm looking for projects to evolve as a programmer.<br>I've been looking for more experienced programmers in this area to always help me with the knowledge they have, so I've been looking for more and more knowledge to have a better working relationship.<br>I'm a student at a university that ranks as one of the top 5 in Brazil, and I'm old and I'm trying harder and harder with my studies.<br>I'm always willing to talk about programming, but not only that, I like to acquire knowledge far beyond that and I also hope to add to what I have.
 
 
