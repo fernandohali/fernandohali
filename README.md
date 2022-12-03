@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-No momento estou trabalhando como freelancer.<br>Procuro projetos para evoluir como programador.<br>Tenho procurado programadores mais experiente para sempre me ajudar com o conhecimento que possuo, por isso tenho buscado cada vez mais conhecimento para ter uma melhor relação de trabalho.<br>Sou aluno de uma universidade que está entre as 5 melhores do Brasil, e estou velho e estou tentando cada vez mais com meus estudos.<br>Estou sempre disposto a falar sobre programação, mas não só isso, gosto de adquirir conhecimentos muito além disso e também espero agregar ao que tenho.
+Atualmente sou freelancer. <br>Procuro um projeto onde possa me desenvolver como programador. <br>Estou sempre em busca de programadores mais experientes para me ajudar com o conhecimento que tenho, por isso estou sempre em busca de mais e mais conhecimento para construir uma melhor relação de trabalho. <br>Sou aluno de uma das 5 melhores universidades do Brasil, sou velho e estou tentando aprender.<br>Estou sempre disposto a falar sobre programação, mas não só isso, gosto de aprender muito mais do que isso, também espero acrescentar ao que tenho.
 
 
 ## 🌐 Socials:
