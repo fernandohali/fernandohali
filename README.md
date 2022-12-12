@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩🏻‍💻 Sobre mim:
 Atualmente sou freelancer.<br>Procuro um projeto onde possa me desenvolver como programador.<br>Estou sempre em busca de programadores mais experientes para me ajudar com o conhecimento que tenho, por isso estou sempre em busca de mais e mais conhecimento para construir uma melhor relação de trabalho.<br>Sou aluno de uma das 5 melhores universidades do Brasil, que é a Universidade Estadual do Sudoeste da Bahia (UESB).<br>Estou sempre disposto a falar sobre programação, mas não só isso, gosto de aprender muito mais do que isso, também espero acrescentar ao que tenho.<br>If the people who made the programs who made our program?
 
 
