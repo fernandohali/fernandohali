@@ -1,9 +1,6 @@
 # 💫 About Me:
 I am currently a freelancer.<br>I'm looking for a project where I can develop myself as a programmer.<br>I'm always looking for more experienced programmers to help me with the knowledge I have, so I'm always looking for more and more knowledge to build a better working relationship.<br>I am a student at one of the top 5 universities in Brazil, which is the State University of Southwest Bahia (UESB).<br>I'm always willing to talk about programming, but not only that, I like to learn a lot more than that, I also hope to add to what I have.<br>If the people who made the programs who made our program?
 
-![snake gif](https://github.com/fernandohali/fernandohali/blob/output/github-contribution-grid-snake.svg)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Fernando-Hali#8524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandohsd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hali-santos-andrade-234624229/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20753343/fernando-hali)
 
@@ -15,6 +12,7 @@ I am currently a freelancer.<br>I'm looking for a project where I can develop my
 <br>![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 <br>![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
  
+![snake gif](https://github.com/fernandohali/fernandohali/blob/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fernandohali&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
