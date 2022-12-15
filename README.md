@@ -2,7 +2,7 @@
 I am currently a freelancer.<br>I'm looking for a project where I can develop myself as a programmer.<br>I'm always looking for more experienced programmers to help me with the knowledge I have, so I'm always looking for more and more knowledge to build a better working relationship.<br>I am a student at one of the top 5 universities in Brazil, which is the State University of Southwest Bahia (UESB).<br>I'm always willing to talk about programming, but not only that, I like to learn a lot more than that, I also hope to add to what I have.<br>If the people who made the programs who made our program?
 
 
-![](https://github.com/fernandohali/snk/raw/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/fernandohali/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Fernando-Hali#8524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandohsd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hali-santos-andrade-234624229/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20753343/fernando-hali)
