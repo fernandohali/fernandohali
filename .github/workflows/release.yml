@@ -1,4 +1,4 @@
-name: "generate-snake-game-from-github-contribution-grid"
+name: "gerar-jogo-snake-from-github-contribution-hali"
 description: "Generates a snake game from a github user contributions grid. Output the animation as svg"
 author: "platane"
 
