@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1> Fernando Hali </h1>]
+<h1> Fernando Hali </h1>
 <p> 
 I am currently a freelancer.<br>I'm looking for a project where I can develop myself as a programmer.<br>I'm always looking for more experienced programmers to help me with the knowledge I have, so I'm always looking for more and more knowledge to build a better working relationship.<br>I am a student at one of the top 5 universities in Brazil, which is the State University of Southwest Bahia (UESB).<br>I'm always willing to talk about programming, but not only that, I like to learn a lot more than that, I also hope to add to what I have.<br>If the people who made the programs who made our program? </p>
 
