@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <h4> 
-Eu sou um freelancer atualmente e estou procurando um projeto para me desenvolver como programador. Busco sempre ajuda de programadores mais experientes para melhorar minhas habilidades e conhecimentos. Sou aluno de uma das melhores universidades do Brasil, a Universidade Estadual do Sudoeste da Bahia (UESB), e estou sempre disposto a aprender e agregar mais conhecimento. Gostaria de falar sobre programação, mas também estou interessado em aprender sobre outros assuntos. </h4>
+I'm currently a freelancer and I'm looking for a project to develop myself as a programmer. I always seek help from more experienced programmers to improve my skills and knowledge. I'm a student at one of the best universities in Brazil, the State University of Southwest Bahia (UESB), and I'm always willing to learn and add more knowledge. I'd like to talk about programming, but I'm also interested in learning about other subjects. </h4>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Fernando-Hali#8524) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandohsd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hali-santos-andrade-234624229/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20753343/fernando-hali)
