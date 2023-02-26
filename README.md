@@ -14,8 +14,6 @@ While programming is my primary focus, I am also passionate about learning about
 <br>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
- 
-![snake gif](https://github.com/fernandohali/fernandohali/blob/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fernandohali&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
