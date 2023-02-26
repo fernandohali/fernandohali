@@ -20,6 +20,8 @@ While programming is my primary focus, I am also passionate about learning about
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernandohali&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohali&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![snake gif](https://github.com/fernandohali/fernandohali/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
