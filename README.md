@@ -1,5 +1,13 @@
 
-<h4> <br>As a freelancer, I am eager to take on new projects to further develop my programming skills. To achieve this, I actively seek the guidance of experienced programmers. I am currently a student at the State University of Southwest Bahia (UESB), one of the top universities in Brazil, and am always looking to expand my knowledge and expertise.<br><br>While programming is my primary focus, I am also passionate about learning about other subjects. I am open to discussing a wide range of topics and am excited about the opportunity to broaden my horizons. </h4>
+<h4> <br>I am a person passionate about technology and the world of computing. From an early age I developed a deep interest in computing and programming, which led me to study Information Systems at the State University of Southwest Bahia (UESB).
+
+Throughout my studies, I immersed myself in different areas of IT, focusing on full stack and backend programming, where I developed solid skills in creating web applications and managing highly complex systems.
+
+My passion is not just limited to technology, but also communication and knowledge dissemination. I'm always looking for new ways to share information and help people understand the world of technology in a more accessible and practical way.
+
+Furthermore, I am looking forward to exploring new horizons in the area of backend game development, where I believe I can apply my technical knowledge to create captivating and innovative gaming experiences.
+
+Outside of the world of technology, I like traveling, reading and playing sports. I am an enthusiast of continuous learning and am always looking for opportunities to grow, both personally and professionally. I'm excited about the future and the possibilities of it being involved in my journey as a passionate about the world of computing and technology. </h4>
 
 
 ## 🌐 Socials:
