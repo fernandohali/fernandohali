@@ -61,11 +61,6 @@ Outside of the world of technology, I like traveling, reading and playing sports
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fernandohali&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fernandohali&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=fernandohali&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
