@@ -1,15 +1,3 @@
-
-<h4> <br>I am a person passionate about technology and the world of computing. From an early age I developed a deep interest in computing and programming, which led me to study Information Systems at the State University of Southwest Bahia (UESB).
-
-Throughout my studies, I immersed myself in different areas of IT, focusing on full stack and backend programming, where I developed solid skills in creating web applications and managing highly complex systems.
-
-My passion is not just limited to technology, but also communication and knowledge dissemination. I'm always looking for new ways to share information and help people understand the world of technology in a more accessible and practical way.
-
-Furthermore, I am looking forward to exploring new horizons in the area of backend game development, where I believe I can apply my technical knowledge to create captivating and innovative gaming experiences.
-
-Outside of the world of technology, I like traveling, reading and playing sports. I am an enthusiast of continuous learning and am always looking for opportunities to grow, both personally and professionally. I'm excited about the future and the possibilities of it being involved in my journey as a passionate about the world of computing and technology. </h4>
-
-
 ## 🌐 Socials:
 <br />[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/f_hali)
     <br />[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fernandohali)
