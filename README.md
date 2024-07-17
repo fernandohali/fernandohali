@@ -31,15 +31,4 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fernandohali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fernandohali&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fernandohali&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐍 Snake Eating My Contributions
-![snake gif](https://github.com/fernandohali/fernandohali/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
