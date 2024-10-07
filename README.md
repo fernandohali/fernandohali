@@ -53,10 +53,10 @@ Para separar a seção **Tech Stack** por categorias de linguagem e tecnologia, 
 --- 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fernandohali&theme=default&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=fernandohali&theme=default&hide_border=false&include_all_commits=true&count_private=false) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernandohali&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandohali&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+---  
 
 [![](https://visitcount.itsvg.in/api?id=fernandohali&icon=1&color=12)](https://visitcount.itsvg.in)
