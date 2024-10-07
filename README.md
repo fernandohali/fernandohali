@@ -2,11 +2,9 @@
 Sou desenvolvedor de software motivado e experiente, com habilidades em programação orientada a objetos. Tenho a capacidade de desenvolver e implementar soluções de software inovadoras, adaptando-me facilmente a diferentes ambientes de trabalho, seja em equipe ou individualmente.
 
 ## 🌐 Redes Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fernandohali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hali-santos-andrade-234624229/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fernandohali) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hali-santos-andrade-234624229/) <br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/309955/fernando-hali)
-
-Para separar a seção **Tech Stack** por categorias de linguagem e tecnologia, você pode organizá-las em grupos. Aqui está uma versão revisada, dividida em **Linguagens de Programação**, **Desenvolvimento Front-End**, **Desenvolvimento Back-End**, **Serviços de Nuvem**, **Bancos de Dados** e **Ferramentas de Design e Controle de Versão**:
 
 ---
 
