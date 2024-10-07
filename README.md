@@ -1,7 +1,3 @@
-Aqui está uma versão mais organizada e otimizada do seu README para o GitHub. Mantive todos os elementos que você incluiu, com algumas melhorias para facilitar a leitura e a navegação:
-
----
-
 # 💫 Sobre Mim:
 Sou desenvolvedor de software motivado e experiente, com habilidades em programação orientada a objetos. Tenho a capacidade de desenvolver e implementar soluções de software inovadoras, adaptando-me facilmente a diferentes ambientes de trabalho, seja em equipe ou individualmente.
 
