@@ -48,11 +48,6 @@ Sou desenvolvedor de software experiente, focado em programação orientada a ob
 
 ---
 
-## 🌟 Principais Projetos
-- [Projeto Cinema](https://github.com/fernandohali/projeto-cinema): Sistema de gerenciamento de reservas para um cinema, utilizando PHP, Laravel, MySQL, HTML e CSS.
-
----
-
 ## 📊 Minhas Estatísticas no GitHub
 ![](https://github-readme-stats.vercel.app/api?username=fernandohali&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernandohali&theme=radical&hide_border=true)
