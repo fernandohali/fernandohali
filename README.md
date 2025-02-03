@@ -1,13 +1,3 @@
-
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ## 🌐 Redes Sociais
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fernandohali)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hali-santos-andrade-234624229/)  
@@ -49,3 +39,11 @@
 ### 🔝 Repositório mais contribuído
 ![](https://github-contributor-stats.vercel.app/api?username=fernandohali&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true&locale=pt-br)
 ---
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandohali/fernandohali/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
