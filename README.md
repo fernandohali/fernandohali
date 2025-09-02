@@ -1,23 +1,25 @@
-
 ## 💻 Tech Stack
-<div align="center">
 
-### 🔹 Embarcados  
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" />
+#### 🔹 Embarcados  
+<img src="https://skillicons.dev/icons?i=arduino" width="25"/> 
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="25"/> 
+<img src="https://skillicons.dev/icons?i=cpp" width="25"/>
 
-### 🔹 Back-End  
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+#### 🔹 Back-End  
+<img src="https://skillicons.dev/icons?i=php" width="25"/> 
+<img src="https://skillicons.dev/icons?i=laravel" width="25"/>
 
-### 🔹 Front-End  
-<img src="https://skillicons.dev/icons?i=js,ts,react" />
+#### 🔹 Front-End  
+<img src="https://skillicons.dev/icons?i=js" width="25"/> 
+<img src="https://skillicons.dev/icons?i=ts" width="25"/> 
+<img src="https://skillicons.dev/icons?i=react" width="25"/>
 
-### 🔹 Mobile  
-<img src="https://skillicons.dev/icons?i=react" />
+#### 🔹 Mobile  
+<img src="https://skillicons.dev/icons?i=react" width="25"/>
 
-### 🔹 Versionamento  
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-</div>
+#### 🔹 Versionamento  
+<img src="https://skillicons.dev/icons?i=git" width="25"/> 
+<img src="https://skillicons.dev/icons?i=github" width="25"/>
 
 ---
 
@@ -50,7 +52,7 @@
 
 ---
 
-## 🌐 Redes Sociais
+
 <div align="center">
   <a href="https://discord.gg/fernandohali" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
